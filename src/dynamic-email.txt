@@ -1,0 +1,15 @@
+Dear $firstName $lastName,
+
+This is your monthly notification of your GitHub activity. You currently have ${repos.size()} repositories on GitHub and
+you had a total of $commits commits this month. We wanted to let you know that these are your latest 4 repositories
+by activity.
+
+<% repos.each { repo ->
+    println "\t $repo.name"
+}
+%>
+We thank you for using GitHub and wish you another month of happy committing.
+
+Thank You!
+GitHub
+www.github.com

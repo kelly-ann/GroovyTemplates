@@ -1,0 +1,16 @@
+Dear K-A,
+
+This is your monthly notification of your GitHub activity. You currently have 40 repositories on GitHub and
+you had a total of 25 commits this month. We wanted to let you know that these are your latest 4 repositories
+by activity.
+
+  > Repo 1
+  > Repo 2
+  > Repo 3
+  > Repo 4
+
+We thank you for using GitHub and wish you another month of happy committing.
+
+Thank You!
+GitHub
+www.github.com
